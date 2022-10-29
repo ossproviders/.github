@@ -9,7 +9,7 @@ OSS Providers is an open source collective that specialises in building **Pulumi
 
 | Pulumi Providers             | Terraform Providers     | NX Generators      |
 | :--                          |     :--                 |     :--            |
-| **Cockroach DB**                 | Braintree               | Pulumi             |
+| **Cockroach DB**             | Braintree               | Pulumi             |
 | Vercel                       | Stripe                  | Terraform          |
 | Stripe                       | Prismic                 | Mitosis            |
 | Braintree                    |                         |                    |
