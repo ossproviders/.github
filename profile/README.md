@@ -19,6 +19,10 @@ OSS Providers is an open source collective that specialises in building **Pulumi
 
 Have you ever been in a situation when the OSS Pulumi or Terraform provider your production infrastructure depends on has been left for dead, no longer actively maintained, the repo threads completely stale and with no maintainers in sight?
 
-This is exactly the issue we are trying to mitigate, our aim is to nurture an active OSS community of dedicated and passionate IAC provider engineers who will actively create and support many of your favorite services and companies.
+If you ever find yourself in this situation here's a quote to lighten your day.
+
+_"There is no old bread that cannot find its cheese."_
+
+As this is exactly the issue we are trying to mitigate, our aim is to nurture an active OSS community of dedicated and passionate IAC provider engineers who will actively create and support many of your favorite services and companies.
 
 ## Supporters & Sponsors
