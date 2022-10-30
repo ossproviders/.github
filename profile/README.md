@@ -12,8 +12,8 @@ OSS Providers is an open source collective that specialises in building **Pulumi
 | **Cockroach DB**             | Braintree               | Pulumi             |
 | Vercel                       | Stripe                  | Terraform          |
 | Stripe                       | Prismic                 | Mitosis            |
-| Braintree                    |                         | Wundergaph         |
-| Prismic                      |                         |                    |
+| Braintree                    | DatoCMS                 | Wundergaph         |
+| Prismic                      | Authzed                 |                    |
 | PlanetScale                  |                         |                    |
 | DatoCMS                      |
 
