@@ -15,6 +15,7 @@ OSS Providers is an open source collective that specialises in building **Pulumi
 | Braintree                    |                         | Wundergaph         |
 | Prismic                      |                         |                    |
 | PlanetScale                  |                         |                    |
+| DatoCMS                      |
 
 ## Inspiration
 
