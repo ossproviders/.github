@@ -3,7 +3,7 @@
 </P>
 
 # Welcome
-OSS Providers is an open source collective that specialises in building **Pulumi** providers and also contributing to the awesome **V** _Vlang ecosystem_. We aim to help speed up the adoption IAC and V creating tools that support our favorite companies by taking the lead and helping to manage opensource libraries that support our communities in building their products with the best tools available.
+OSS Providers is an open source collective that specialises in building **Pulumi & NX** provider/plugins and also contributing to the awesome **V** _Vlang ecosystem_. We aim to help speed up the adoption IAC and V creating tools that support our favorite companies by taking the lead and helping to manage opensource libraries that support our communities in building their products with the best tools available.
 
 ## Planned Projects
 
